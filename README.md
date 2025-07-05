@@ -1,1 +1,1 @@
-[![Blossomed in 🌸 JS](https://a.b-b.top/badge.svg?repo=sakura&label=Blossomed%20in%20🌸%20JS&background_color=ec407a&background_color2=f06292&utm_source=github&utm_medium=readme&utm_campaign=badge)](https://a.b-b.top)
+[![Blossomed in 🌸 JS](https://a.b-b.top/badge.svg?repo=sakura&label=Blossomed%20in%20JS&background_color=ec407a&background_color2=f06292&utm_source=github&utm_medium=readme&utm_campaign=badge)](https://a.b-b.top)
